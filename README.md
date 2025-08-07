@@ -3,11 +3,11 @@
 A minimalist Crate Clicking game made in Unity.
 
 ## 🎮 Gameplay
-You have to click on crates, which randomly spawn from the bottom of the screen. 
-Clicking Skulls will reduce your points, and crates will increase your points.
-If you miss clicking a crate, the game is lost.
+You have to click on crates that randomly spawn from the bottom of the screen. 
+Clicking on Skulls will reduce your points, while clicking on a crate will increase them.
+If you miss clicking a crate, the game is over.
 
-🎮 Check out Web build of the Game
+🎮 Check out the Web build of the Game
 https://play.unity.com/en/games/467e8534-0b69-429f-8ffb-bf97c59bca37/clicky-crates
 
 ## 🛠 Built With
